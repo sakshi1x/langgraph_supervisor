@@ -1,0 +1,13 @@
+langgraph
+langgraph-supervisor
+langchain
+langchain-openai
+langchain-core
+langchain-tavily
+requests
+pydantic
+python-dotenv
+PyPDF2
+python-docx
+google-search-python
+ipython 
