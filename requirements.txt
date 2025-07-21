@@ -1,0 +1,30 @@
+# Core LangChain and LangGraph dependencies
+langchain==0.1.0
+langchain-core==0.1.0
+langchain-openai==0.0.5
+langgraph==0.0.20
+
+# FastAPI and web framework dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# Environment and configuration
+python-dotenv==1.0.0
+
+# Langfuse for observability
+langfuse==2.7.0
+
+# Async support
+asyncio
+
+# Logging and utilities
+python-multipart==0.0.6
+
+# Development and testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+httpx==0.25.2
+
+# Optional: For production deployment
+gunicorn==21.2.0 
